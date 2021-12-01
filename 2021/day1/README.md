@@ -96,10 +96,10 @@ Consider sums of a three-measurement sliding window. How many sums are larger th
 ## Calculations
 ```shell
 $ go build day1_a.go
-$ go build day2_b.go
+$ go build day1_b.go
 $ ./day1_a input.txt
 > 1759
-$ ./day2_b input.txt
+$ ./day1_b input.txt
 > 1805
 ```
 
