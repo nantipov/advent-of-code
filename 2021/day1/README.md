@@ -97,9 +97,9 @@ Consider sums of a three-measurement sliding window. How many sums are larger th
 ```shell
 $ go build day1_a.go
 $ go build day2_b.go
-$ day1_a input.txt
+$ ./day1_a input.txt
 > 1759
-$ day2_b input.txt
+$ ./day2_b input.txt
 > 1805
 ```
 
